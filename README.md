@@ -3,6 +3,7 @@
 
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/438038be-679d-40a6-adcf-7dd735b97adb" />  
 
+<img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/743478d9-40fd-45bc-a4ff-d2be0e63af6b" />    
 ```
 
 ## Programa Java para calcular el factorial de un número y almacenar la información en Oracle 19c
