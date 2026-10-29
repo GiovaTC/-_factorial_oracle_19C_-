@@ -81,7 +81,7 @@ public class Main
             }
 
             System.out.println();
-            procedimiento.append("/n");
+            procedimiento.append("\n");
 
             // CALCULAR FACTORIAL paso a paso!
             System.out.println("\nPasos del calculo: ");
@@ -93,7 +93,7 @@ public class Main
                 factorial = factorial.multiply(BigInteger.valueOf(i));
 
                 String paso = "Paso " + i + ": " + anterior + " x " + i
-                                + anterior + " x " + i + " = " + factorial;
+                                                 + " = " + factorial;
 
                 System.out.println(paso);
                 procedimiento.append(paso).append("\n");
