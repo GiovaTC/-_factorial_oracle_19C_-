@@ -17,4 +17,4 @@ public class ConexionOracle {
         return DriverManager.getConnection(
                 URL, USUARIO, CLAVE);   // conexion base de datos.
     }
-}   
+}
